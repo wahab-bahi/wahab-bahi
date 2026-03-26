@@ -1,16 +1,13 @@
-## Hi there 👋
+CS student from Pakistan working with WordPress and learning Flutter. Exploring AI and automation while building projects and improving skills for real-world opportunities.
 
-<!--
-**wahab-bahi/wahab-bahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently focusing on:
+- Building WordPress websites and plugins
+- Learning Flutter frontend development
+- Exploring AI integrations and automation
 
-Here are some ideas to get you started:
+Goal:
+To improve skills, build real projects, and prepare for freelance and professional opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact:
+Email: mr.wahabsain@gmail.com
+LinkedIn: in/wahab-sain
